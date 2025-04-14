@@ -1,0 +1,21 @@
+/* src/pages/HomePage.css */
+.hero-image img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;  /* Makes sure the image covers the space */
+  }
+  
+  
+  .intro-text {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #790000;
+  }
+  /* src/pages/HomePage.css */
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  

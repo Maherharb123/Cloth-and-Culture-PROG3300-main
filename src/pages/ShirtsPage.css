@@ -1,0 +1,25 @@
+/* src/pages/ShirtsPage.css */
+
+.shirts-page {
+    text-align: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .shirts-page h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .shirts-page p {
+    font-size: 1.1rem;
+    color: #666;
+  }
+  
+  .product-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
