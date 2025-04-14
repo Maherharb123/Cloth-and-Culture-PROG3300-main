@@ -31,6 +31,5 @@ function CoatsPage() {
       </div>
     </div>
   );
-}
-
+} 
 export default CoatsPage;
